@@ -11,7 +11,7 @@
 - run it as administrator
 - wait for it to complete setup and write
   ```login anonymous```
-   then ```app_update 232250 validate ```  
+   then ```app_update 740 validate ```  
 ### Setup
 - download the bat file [here](https://downgit.github.io/#/home?url=https://github.com/pewpewshoot/tf2-dedicated-server/blob/main/setup.bat)
 - configure as needed

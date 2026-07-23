@@ -14,7 +14,7 @@
   ```login anonymous```
    then ```app_update 740 validate ```  
 ### Setup
-- download the bat file [here](https://downgit.github.io/#/home?url=https://github.com/pewpewshoot/tf2-dedicated-server/blob/main/setup.bat)
+- download the bat file [here](https://downgit.github.io/#/home?url=https://github.com/pewpewshoot/cs-go-dedicated-server/blob/main/setup.bat)
 - configure as needed
 
 

@@ -24,6 +24,6 @@
 
 ### To do
 - Sourcemod and Metamod installer
-- Popular plugin installer (Lilac, RTD)  
+- Popular plugin installer (Lilac, Skinchanger)  
 pls hlep me :(
 

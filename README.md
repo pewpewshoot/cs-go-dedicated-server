@@ -3,9 +3,8 @@
 > [!TIP]
 > **This is the installer for the software required to host your own Counter Strike Global Offensive server**  
 
-
-> [!WARNING]
-> > **CS:GO not CS2 btw**  
+> [!CAUTION]
+>  **CS:GO not CS2 btw**  
 
 ### Installer
 - download the bat file [here](https://downgit.github.io/#/home?url=https://github.com/pewpewshoot/tf2-dedicated-server/blob/main/installer.bat)

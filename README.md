@@ -12,7 +12,7 @@
 - run it as administrator
 - wait for it to complete setup and write
   ```login anonymous```
-   then ```app_update 740 validate ```
+   then ```app_update 740 validate```
 
 
 

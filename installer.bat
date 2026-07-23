@@ -1,11 +1,11 @@
 @echo off
-title TF2 Server setup
+title CSGO Server setup
 color 0A
 ECHO Creating a Server directory...
-mkdir "%USERPROFILE%\documents\tf2ds
+mkdir "%USERPROFILE%\documents\csgods
 cls
 ECHO Server directory done...
-cd "%USERPROFILE%\documents\tf2ds
+cd "%USERPROFILE%\documents\csgods
 ECHO Downloading Steamcmd
 powershell Invoke-WebRequest https://client-update.steamstatic.com/installer/steamcmd.zip -OutFile steamcmd.zip  
 REM DOWNLOADS STEAMCMD

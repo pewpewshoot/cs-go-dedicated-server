@@ -12,8 +12,12 @@
 - run it as administrator
 - wait for it to complete setup and write
   ```login anonymous```
-   then ```app_update 740 validate ```  
-### Setup
+   then ```app_update 740 validate ```
+
+
+
+
+### Setup (WIP)
 - download the bat file [here](https://downgit.github.io/#/home?url=https://github.com/pewpewshoot/cs-go-dedicated-server/blob/main/setup.bat)
 - configure as needed
 

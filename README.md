@@ -1,7 +1,7 @@
 # CS:GO-dedicated-server
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)    
 > [!TIP]
-> **This is the installer for the software required to host your own Counter Strike Global Offensive server**
+> **This is the installer for the software required to host your own Counter Strike Global Offensive server**  
 > **CS:GO not CS2 btw**
 ### Installer
 - download the bat file [here](https://downgit.github.io/#/home?url=https://github.com/pewpewshoot/tf2-dedicated-server/blob/main/installer.bat)

@@ -18,7 +18,7 @@ REM FIXES SOME DOWNLOAD ISSUES
 cls 
 START /WAIT cmd /c steamcmd
 REM login anonymous
-REM app_update 232250 validate
+REM app_update 740 validate
 REM COMMENTED THE ABOVE OUT SINCE IT DOESN'T WORK
 
 cmd /k

@@ -8,7 +8,7 @@
 >  **This is for CS:GO not CS2 btw**  
 
 ### Installer
-- download the bat file [here](https://downgit.github.io/#/home?url=https://github.com/pewpewshoot/tf2-dedicated-server/blob/main/installer.bat)
+- download the bat file [here](https://github.com/pewpewshoot/tf2-dedicated-server/releases/download/Windows/installer.bat)
 - run it as administrator
 - wait for it to complete setup and write
   ```login anonymous```

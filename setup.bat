@@ -1,5 +1,5 @@
 @ECHO OFF
-title TF2 server setup
+title CSGO server setup
 color 0A
 :MainMenu
     CLS
@@ -24,7 +24,7 @@ color 0A
 :Option1
     ECHO.
     ECHO Making Launcher
-mkdir "%USERPROFILE%\documents\tf2ds\downloadfolder
+mkdir "%USERPROFILE%\documents\csgods\downloadfolder
 cd "%USERPROFILE%\documents\tf2ds\downloadfolder
 powershell Invoke-WebRequest https://github.com/pewpewshoot/tf2-dedicated-server/archive/refs/heads/main.zip -OutFile main.zip  
 tar -xf main.zip

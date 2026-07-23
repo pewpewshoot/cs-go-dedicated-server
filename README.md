@@ -3,7 +3,7 @@
 > [!TIP]
 > **This is the installer for the software required to host your own Counter Strike Global Offensive server**  
 
-> [!CAUTION]
+> [!IMPORTANT]
 >  **CS:GO not CS2 btw**  
 
 ### Installer

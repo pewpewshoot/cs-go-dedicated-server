@@ -17,7 +17,7 @@
 
 
 
-### Setup (WIP)
+### Setup (doesnt work 4 now)
 - download the bat file [here](https://downgit.github.io/#/home?url=https://github.com/pewpewshoot/cs-go-dedicated-server/blob/main/setup.bat)
 - configure as needed
 

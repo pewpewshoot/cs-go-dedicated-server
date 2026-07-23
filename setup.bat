@@ -25,10 +25,10 @@ color 0A
     ECHO.
     ECHO Making Launcher
 mkdir "%USERPROFILE%\documents\csgods\downloadfolder
-cd "%USERPROFILE%\documents\tf2ds\downloadfolder
+cd "%USERPROFILE%\documents\csgods\downloadfolder
 powershell Invoke-WebRequest https://github.com/pewpewshoot/tf2-dedicated-server/archive/refs/heads/main.zip -OutFile main.zip  
 tar -xf main.zip
-powershell Copy-Item "%USERPROFILE%\documents\tf2ds\downloadfolder\tf2-dedicated-server-main\start.bat"  -Destination '%USERPROFILE%\documents\tf2ds\steamapps\common\Team Fortress 2 Dedicated Server'
+powershell Copy-Item "%USERPROFILE%\documents\csgods\downloadfolder\tf2-dedicated-server-main\start.bat"  -Destination '%USERPROFILE%\documents\csgods\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server'
 cmd /k
     PAUSE
     GOTO :MainMenu

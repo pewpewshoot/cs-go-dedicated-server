@@ -1,5 +1,6 @@
 # CS:GO-dedicated-server
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) [![Video](https://img.shields.io/badge/huge%20thanks%20to-this%20vid-%230d1117?style=for-the-badge&logo=youtube&logoColor=white&labelColor=red)](https://www.youtube.com/watch?v=ViOXK04pUu0)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  
+[![Video](https://img.shields.io/badge/huge%20thanks%20to-this%20vid-%230d1117?style=for-the-badge&logo=youtube&logoColor=white&labelColor=red)](https://www.youtube.com/watch?v=ViOXK04pUu0)
 > [!TIP]
 > **This is the installer for the software required to host your own Counter Strike Global Offensive server**  
 

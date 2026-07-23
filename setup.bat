@@ -26,9 +26,9 @@ color 0A
     ECHO Making Launcher
 mkdir "%USERPROFILE%\documents\csgods\downloadfolder
 cd "%USERPROFILE%\documents\csgods\downloadfolder
-powershell Invoke-WebRequest https://github.com/pewpewshoot/tf2-dedicated-server/archive/refs/heads/main.zip -OutFile main.zip  
+powershell Invoke-WebRequest https://github.com/pewpewshoot/cs-go-dedicated-server/archive/refs/heads/main.zip -OutFile main.zip  
 tar -xf main.zip
-powershell Copy-Item "%USERPROFILE%\documents\csgods\downloadfolder\tf2-dedicated-server-main\start.bat"  -Destination '%USERPROFILE%\documents\csgods\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server'
+powershell Copy-Item "%USERPROFILE%\documents\csgods\downloadfolder\cs-go-dedicated-server\start.bat"  -Destination '%USERPROFILE%\documents\csgods\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server'
 cmd /k
     PAUSE
     GOTO :MainMenu

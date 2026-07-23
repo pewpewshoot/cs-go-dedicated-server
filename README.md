@@ -1,4 +1,4 @@
-# tf2-dedicated-server
+# CS:GO-dedicated-server
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)    
 > [!TIP]
 > **This is the already compiled software required to host your own Team Fortress 2 server**  

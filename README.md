@@ -28,6 +28,7 @@ Open your Command Prompt and paste in the following:
    cd documents
    mkdir SteamCMD
 ```
+Paste the following to download SteamCMD; the download link is not a virus as it has been directly taken from Valve's own developer wiki, as seen [here](https://developer.valvesoftware.com/wiki/SteamCMD#_Windows).
 ```ruby
    cd SteamCMD
    powershell Invoke-WebRequest https://client-update.steamstatic.com/installer/steamcmd.zip -OutFile steamcmd.zip

@@ -20,11 +20,15 @@ Confirm the download request in the Steam app and then visit the install directo
 
 <details>
 
-<summary>Without steam</summary>  
+<summary>Without Steam</summary>  
 Open your Command Prompt and paste in the following:
 
 ```ruby
    mkdir "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server"
+   mkdir "%USERPROFILE%\documents\SteamCMD"
+```
+```ruby
+   cd "%USERPROFILE%\documents
 ```
 
 </details>

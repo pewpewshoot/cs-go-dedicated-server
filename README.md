@@ -11,8 +11,7 @@
 
 <details>
 
-<summary>With Steam installed</summary>
-
+<summary>With Steam installed</summary>  
 Press ``` Win+R ``` and paste in the following: ```steam://run/740```.  
 Confirm the download request in the Steam app and then visit the install directory, usually  ```C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server ```
 
@@ -21,16 +20,11 @@ Confirm the download request in the Steam app and then visit the install directo
 
 <details>
 
-<summary>Without steam</summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
+<summary>Without steam</summary>  
+Open your Command Prompt and paste in the following  
 
 ```ruby
-   puts "Hello World"
+   mkdir "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server"
 ```
 
 </details>

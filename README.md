@@ -13,11 +13,8 @@
 
 <summary>With steam installed</summary>
 
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
+Press ``` Win+R ``` and paste in the following ```steam://run/740 ```
+Confirm the download request in the Steam app and then visit the install directory, usually  ```C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server ```
 
 ```ruby
    puts "Hello World"

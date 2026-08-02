@@ -43,6 +43,10 @@ netsh interface ipv4 set dnsservers "Ethernet" static 8.8.8.8 primary
 
 ```
 
+
+
+steamcmd +force_install_dir "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server"  +login anonymous +app_update 740 
+
 </details>
 
 

@@ -13,7 +13,7 @@
 
 <summary>With steam installed</summary>
 
-Press ``` Win+R ``` and paste in the following ```steam://run/740 ```
+Press ``` Win+R ``` and paste in the following ```steam://run/740```.  
 Confirm the download request in the Steam app and then visit the install directory, usually  ```C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server ```
 
 ```ruby

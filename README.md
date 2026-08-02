@@ -29,7 +29,10 @@ Open your Command Prompt and paste in the following:
    mkdir SteamCMD
 ```
 ```ruby
-   cd "%USERPROFILE%\documents
+   cd SteamCMD
+   powershell Invoke-WebRequest https://client-update.steamstatic.com/installer/steamcmd.zip -OutFile steamcmd.zip
+   tar -xf steamcmd.zip
+
 ```
 
 </details>

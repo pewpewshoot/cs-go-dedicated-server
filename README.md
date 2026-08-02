@@ -25,7 +25,8 @@ Open your Command Prompt and paste in the following:
 
 ```ruby
    mkdir "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server"
-   mkdir "%USERPROFILE%\documents\SteamCMD"
+   cd documents
+   mkdir SteamCMD
 ```
 ```ruby
    cd "%USERPROFILE%\documents

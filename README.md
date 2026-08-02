@@ -13,6 +13,7 @@
 
 <summary>With Steam installed</summary>  
 Press  Win+R  and paste in the following: 
+
 ```ruby
    steam://run/740
 ```

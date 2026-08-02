@@ -7,6 +7,55 @@
 > [!IMPORTANT]
 >  **This is for CS:GO not CS2 btw**  
 
+### Downloading the base server
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Installer
 - download the bat file [here](https://github.com/pewpewshoot/cs-go-dedicated-server/releases/download/Windows/SteamCMD_Installer.bat)
 - run it as administrator

@@ -36,6 +36,13 @@ Paste the following to download SteamCMD; the download link is not a virus as it
 
 ```
 
+In case the following steps don't work set your DNS to Google (8.8.8.8).
+```ruby
+netsh interface ipv4 set dnsservers "Wi-Fi" static 8.8.8.8 primary  
+netsh interface ipv4 set dnsservers "Ethernet" static 8.8.8.8 primary 
+
+```
+
 </details>
 
 

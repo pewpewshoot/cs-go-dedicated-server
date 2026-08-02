@@ -57,32 +57,9 @@ Download the CS:GO dedicated server
 </details>
 
 
+Visit the install directory, usually  ``` C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-### Installer
-- download the bat file [here](https://github.com/pewpewshoot/cs-go-dedicated-server/releases/download/Windows/SteamCMD_Installer.bat)
-- run it as administrator
-- wait for it to complete setup and write
-  ```login anonymous```
-   then ```app_update 740 validate```
-
-
-
-
-### Setup (doesnt work 4 now)
-- download the bat file [here](https://downgit.github.io/#/home?url=https://github.com/pewpewshoot/cs-go-dedicated-server/blob/main/setup.bat)
-- configure as needed
 
 
 ### To do

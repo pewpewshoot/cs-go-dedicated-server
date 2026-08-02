@@ -11,7 +11,7 @@
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>With steam installed</summary>
 
 ### You can add a header
 
@@ -28,7 +28,7 @@ You can add an image or a code block, too.
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Without steam</summary>
 
 ### You can add a header
 

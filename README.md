@@ -50,7 +50,7 @@ netsh interface ipv4 set dnsservers "Ethernet" static 8.8.8.8 primary
 
 Download the CS:GO dedicated server
 ```ruby
-.\steamcmd +force_install_dir "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive Beta - Dedicated Server"  +login anonymous +app_update 740 
+.\steamcmd +force_install_dir "C:\Program Files (x86)\Steam" +login anonymous +app_update 740 
 
 
 ```
